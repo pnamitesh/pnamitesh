@@ -13,7 +13,7 @@
 <!-- START_SECTION:blog -->
 | Qualification | Studied at | Institute | Affliated by | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
-| B.Tech CSE-AI | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | 2022 - 2026 | 9 CGPA |
+| B.Tech CSE-AI | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | 2022 - 2026 | 8.5 CGPA |
 | Intermediate | <img src="https://github.com/pnamitesh/school-img/blob/main/school_img/download%20(1).png" width="30" height="20"> | Jai Academy | CBSE | 2021 - 2022 | 87.2% |
 | High School |  <img src="https://github.com/pnamitesh/school-img/blob/main/school_img/download.png" width="30" height="20">| Christ The King  | ICSE | 2019 - 2020 | 90.3% |
 <!-- END_SECTION:blog -->
